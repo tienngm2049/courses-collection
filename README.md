@@ -1,4 +1,4 @@
-# Courses Collection
+# Courses & Projects Collection
 
 This repository serves as a collection of my courses and learning endeavors. This is where I keep track of everything I have learnt:
 
@@ -22,7 +22,7 @@ This repository serves as a collection of my courses and learning endeavors. Thi
 
 ## Ongoing Courses
 
-5. [CS50SQL](https://github.com/tienngm2049/cs50sql)
+5. [CS50SQL Final Project](https://github.com/tienngm2049/cs50sql)
    - Current Progress: Ongoing
 
 6. [Mathematics for Machine Learning](https://github.com/tienngm2049/mathematics-for-machine-learning)
