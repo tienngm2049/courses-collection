@@ -1,6 +1,6 @@
 # Courses Collection
 
-This repository serves as a collection of my courses and learning endeavors. Below, you can find a list of my completed, ongoing courses, and self-study projects:
+This repository serves as a collection of my courses and learning endeavors. This is where I keep track of everything I have learnt:
 
 ## Courses with Certificates
 
@@ -40,6 +40,9 @@ This repository serves as a collection of my courses and learning endeavors. Bel
    - Current Progress: Ongoing
 
 10. [MLCourse.ai Assignments](https://github.com/tienngm2049/mlcourse.ai-assignment)
+    - Current Progress: Ongoing
+
+11. [HTML, CSS, and JavaScript Project](https://github.com/tienngm2049/html-css-js)
     - Current Progress: Ongoing
 
 These repositories provide a comprehensive record of my educational achievements and ongoing learning endeavors, demonstrating my commitment to continuous skill development in various domains.
