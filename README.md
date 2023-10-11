@@ -1,6 +1,8 @@
 # Courses Collection
 
-This repository serves as a collection of my course connections. Below, you can find a list of my completed and ongoing courses along with their respective completion or current progress dates:
+This repository serves as a collection of my courses and learning endeavors. Below, you can find a list of my completed, ongoing courses, and self-study projects:
+
+## Courses with Certificates
 
 1. [IBM Data Analyst Professional Certificate](https://github.com/tienngm2049/ibm-data-analyst-professional-certificate)
    - Completion Date: June 28, 2023
@@ -18,10 +20,26 @@ This repository serves as a collection of my course connections. Below, you can 
    - Completion Date: September 28, 2023
    - Description: This project marks the completion of the CS50P course - Introduction to Programming with Python, showcasing my proficiency in computer science and programming.
 
+## Ongoing Courses
+
 5. [CS50SQL](https://github.com/tienngm2049/cs50sql)
-   - Ongoing Course
+   - Current Progress: Ongoing
 
 6. [Mathematics for Machine Learning](https://github.com/tienngm2049/mathematics-for-machine-learning)
-   - Ongoing Course
+   - Current Progress: Ongoing
+
+## Self-Study Courses (no certificate)/Projects
+
+7. [Web Scraping with BeautifulSoup (bs4)](https://github.com/tienngm2049/bs4)
+   - Current Progress: Ongoing
+
+8. [Selenium Automation](https://github.com/tienngm2049/selenium)
+   - Current Progress: Ongoing
+
+9. [Natural Language Processing (NLP)](https://github.com/tienngm2049/nlp)
+   - Current Progress: Ongoing
+
+10. [MLCourse.ai Assignments](https://github.com/tienngm2049/mlcourse.ai-assignment)
+    - Current Progress: Ongoing
 
 These repositories provide a comprehensive record of my educational achievements and ongoing learning endeavors, demonstrating my commitment to continuous skill development in various domains.
