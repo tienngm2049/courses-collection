@@ -40,9 +40,12 @@ This repository serves as a collection of my courses and learning endeavors. Thi
    - Current Progress: Ongoing
 
 10. [MLCourse.ai Assignments](https://github.com/tienngm2049/mlcourse.ai-assignment)
-    - Current Progress: Ongoing
+   - Current Progress: Ongoing
 
 11. [HTML, CSS, and JavaScript](https://github.com/tienngm2049/html-css-js)
-    - Current Progress: Ongoing
+   - Current Progress: Ongoing
+   
+12. [Personal Website](https://github.com/tienngm2049/tienngm2049.github.io)
+   - Current Progress: Ongoing
 
 These repositories provide a comprehensive record of my educational achievements and ongoing learning endeavors, demonstrating my commitment to continuous skill development in various domains.
