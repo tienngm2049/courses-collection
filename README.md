@@ -28,7 +28,7 @@ This repository serves as a collection of my courses and learning endeavors. Bel
 6. [Mathematics for Machine Learning](https://github.com/tienngm2049/mathematics-for-machine-learning)
    - Current Progress: Ongoing
 
-## Self-Study Courses (no certificate)/Projects
+## Self-Study Courses (without Certificate)/Projects
 
 7. [Web Scraping with BeautifulSoup (bs4)](https://github.com/tienngm2049/bs4)
    - Current Progress: Ongoing
