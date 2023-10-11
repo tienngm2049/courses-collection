@@ -18,4 +18,10 @@ This repository serves as a collection of my course connections. Below, you can 
    - Completion Date: September 28
    - Description: This project marks the completion of the CS50P course - Introduction to Programming with Python, showcasing my proficiency in computer science and programming.
 
+5. [CS50SQL](https://github.com/tienngm2049/cs50sql)
+   - Ongoing Course
+
+6. [Mathematics for Machine Learning](https://github.com/tienngm2049/mathematics-for-machine-learning)
+   - Ongoing Course
+
 These repositories provide a comprehensive record of my educational achievements, demonstrating my commitment to continuous learning and skill development in various domains.
